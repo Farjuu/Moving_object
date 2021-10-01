@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Moving_object</string>
+    <string name="press_the_android_n_to_start">Press The Android\n To Start</string>
+    <string name="action_settings">action_settings</string>
+</resources>
